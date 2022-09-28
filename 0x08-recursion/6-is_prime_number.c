@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * is_prime_number - return the sqrt of a natural number.
  * @n: natural number

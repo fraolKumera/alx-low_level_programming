@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _sqrt_recursion - return the sqrt of a natural number.
  * @n: natural number

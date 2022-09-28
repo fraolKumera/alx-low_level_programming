@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * s_len - calculates the length of a string.
  * @s: original string

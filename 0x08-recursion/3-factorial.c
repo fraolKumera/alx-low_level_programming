@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * factorial - return the factorial of a natural number.
  * @n: natural number
