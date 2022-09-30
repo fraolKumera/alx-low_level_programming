@@ -1,18 +1,26 @@
-# Static libraries
+# 0x09-static_librarie
+Learning about static libraries. This repository is composed by:
 
-Project done during **Full Stack Software Engineering studies**. It aims to learn about static libraries in **C language**.
-
-## Technologies
-* Scripts written in Bash 4.3.11(1)
-* C files are compiled using `gcc 4.8.4`
-* C files are written according to the C90 standard
-* Tested on Ubuntu 14.04 LTS
-
-## Files
-All of the following files are scripts and programs written in C:
-
-| Filename | Description |
-| -------- | ----------- |
-| `lilbmy.a` | Static library that contains a lot of functions |
-| `create_static_lib.sh` | Script that creates a static library called `liball.a` from all the `.c` files that are in the current directory |
-| `main.h` | Header file that contains all the prototypes of the used functions |
+* create_static_lib.sh : script that reads all `.c` files and creates a library named liball.a
+* holberton.h: has all functions prototypes.
+*  	libholberton.a: library created using the next functions: 
+			0-isupper.o
+			0-memset.o
+			0-strcat.o
+			100-atoi.o
+			1-isdigit.o
+			1-memcpy.o
+			1-strncat.o
+			2-strchr.o
+			2-strlen.o
+			2-strncpy.o
+			3-islower.o
+			3-puts.o
+			3-strcmp.o
+			3-strspn.o
+			4-isalpha.o
+			4-strpbrk.o
+			5-strstr.o
+			6-abs.o
+			9-strcpy.o
+			_putchar.o
